@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sravani144
 - 👀 I’m interested in Azure Cloud
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m an Azure Devops Engineer
 - 📫 How to reach me sravani.sushree@gmail.com
 
 <!---
